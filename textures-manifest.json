@@ -29,7 +29,9 @@
     "matcap-27.jpg",
     "matcap-28.jpg",
     "matcap-29.jpg",
-    "matcap-30.jpg"
+    "matcap-30.jpg",
+    "matcap-31.jpg",
+    "matcap-32.jpg"
   ],
   "normalMaps": [
     "normal-01.jpg",
@@ -61,6 +63,8 @@
     "normal-27.jpg",
     "normal-28.jpg",
     "normal-29.jpg",
-    "normal-30.jpg"
+    "normal-30.jpg",
+    "normal-31.jpg",
+    "normal-32.jpg"
   ]
 }
